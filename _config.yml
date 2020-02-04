@@ -22,8 +22,8 @@ title: 読書ログ
 email: shun.hiraoka1@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   読んだ本などの感想をつらつら書いているブログです
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://s-h-gamelinks.github.io/bookworm" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: S-H-GAMELINKS/bookworm
 
 # Build settings
