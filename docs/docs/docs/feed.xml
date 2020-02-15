@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="https://s-h-gamelinks.github.io/bookworm/bookworm/feed.xml" rel="self" type="application/atom+xml" /><link href="https://s-h-gamelinks.github.io/bookworm/bookworm/" rel="alternate" type="text/html" /><updated>2020-02-05T22:52:40+09:00</updated><id>https://s-h-gamelinks.github.io/bookworm/bookworm/feed.xml</id><title type="html">読書ログ</title><subtitle>読んだ本などの感想をつらつら書いているブログです</subtitle><entry><title type="html">読書ログのブログはじめてみました</title><link href="https://s-h-gamelinks.github.io/bookworm/bookworm/2020/02/05/welcome-to-jekyll.html" rel="alternate" type="text/html" title="読書ログのブログはじめてみました" /><published>2020-02-05T22:50:38+09:00</published><updated>2020-02-05T22:50:38+09:00</updated><id>https://s-h-gamelinks.github.io/bookworm/bookworm/2020/02/05/welcome-to-jekyll</id><content type="html" xml:base="https://s-h-gamelinks.github.io/bookworm/bookworm/2020/02/05/welcome-to-jekyll.html">&lt;p&gt;読んだ本のログを取ろうと思い、ブログを始めてみました。&lt;/p&gt;
-
-&lt;p&gt;当ブログの環境としてはJekyll + GitHub pagesを使っています。&lt;/p&gt;
-
-&lt;p&gt;読む内容としては技術書関係が多くなりそうだったのでMarkdownに対応しているJekyllを選びました。&lt;/p&gt;
-
-&lt;p&gt;つらつらと読んだ本について書いていこうと思います。&lt;/p&gt;</content><author><name></name></author><summary type="html">読んだ本のログを取ろうと思い、ブログを始めてみました。</summary></entry></feed>
