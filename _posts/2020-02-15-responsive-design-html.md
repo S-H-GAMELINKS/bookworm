@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "レスポンシブWebデザイン「超」実践デザイン集中講義"
 date:   2020-02-15 16:00:00 +0900
 categories: html css responsive frontend
 ---
